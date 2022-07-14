@@ -13,7 +13,7 @@
 
 
 ## 🔧 DB 구조
-ERD Diagram
+[ERD Diagram](https://www.erdcloud.com/d/6bbXKTakoYBWBQppX)
 
 ## ⚒️ 기술 스택
 #### 라이브러리 1: 00기능을 위함
